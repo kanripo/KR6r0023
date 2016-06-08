@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 22:14:47.325321
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 18:00
 #+TITLE: 西藏剌麻溯源
 #+PROPERTY: CBETA_ID X88n1668
 #+PROPERTY: ID KR6r0023
