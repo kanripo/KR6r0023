@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 22:14:47.325321
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 18:00
 #+TITLE: 西藏剌麻溯源
 #+PROPERTY: CBETA_ID X88n1668
 #+PROPERTY: ID KR6r0023
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 88, No. 1668
 #+PROPERTY: VOL 88
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6r0023_X_001-0567b> 
 #+PROPERTY: JUAN 1
-No.1668¶
-
- 摘錄聖武記之卷五溯查西藏剌麻¶
+No. 1668¶
+摘錄聖武記之卷五溯查西藏剌麻¶
 來源¶
 吳中沙門　守一　編輯¶
 
@@ -56,7 +55,7 @@ No.1668¶
 冠為黃色。不屑同於紅教之人。宗喀巴臨終。遺囑二¶
 大弟子。世世以呼畢勒罕。應身轉世。不迷本性。能知¶
 夙世。還來為坐牀掌教之師。二大弟子者。一名達賴。¶
-一名班禪。至乾隆中已第六次轉生矣。¶
+一名班禪。至乾隆中巳第六次轉生矣。¶
 
 又有第一世達賴之大弟子。名哲卜尊丹巴者。一支¶
 住持蒙古庫倫。亦能仿達賴班禪。以呼畢勒罕。不迷¶
